@@ -7,7 +7,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class AdminApp extends Application {
-    @Override
+    @OverrideС
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(AdminApp.class.getResource("AdminLogin.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 600, 400);
