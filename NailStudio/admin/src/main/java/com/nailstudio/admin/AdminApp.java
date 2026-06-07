@@ -3,7 +3,7 @@ package com.nailstudio.admin;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
-import javafx.stage.Stage;
+import javafx.stage.Stage;ZZz
 import java.io.IOException;
 
 public class AdminApp extends Application {
